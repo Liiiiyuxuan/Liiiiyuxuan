@@ -4,8 +4,8 @@
 ### Student @ U of Waterloo 
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Liiiiyuxuan?style=social)](https://github.com/Liiiiyuxuan)
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Liiiiyuxuan&color=blueviolet) -->
+[![GitHub followers](https://img.shields.io/github/followers/Liiiiyuxuan?style=social)](https://github.com/Liiiiyuxuan) 
+[![Profile Views](https://komarev.com/ghpvc/?username=Liiiiyuxuan&color=blueviolet) 
 
 </div>
 
@@ -14,6 +14,13 @@
 - I am a third year student at the University of Waterloo
 - Looking for research opportunities 🙏
 - ENTP
+
+### 🤖 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🎨 
 ![Latex](https://img.shields.io/badge/Latex-20232A?style=for-the-badge&logo=tex&logoColor=green)
