@@ -4,7 +4,7 @@
 ### Student @ U of Waterloo 
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/Liiiiyuxuan?style=social)](https://github.com/Liiiiyuxuan) 
+[![GitHub followers](https://img.shields.io/github/followers/Liiiiyuxuan?style=social)](https://github.com/Liiiiyuxuan) 
 ![Profile Views](https://komarev.com/ghpvc/?username=Liiiiyuxuan&color=blueviolet) 
 
 </div>
