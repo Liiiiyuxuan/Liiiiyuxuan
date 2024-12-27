@@ -15,6 +15,12 @@
 - Looking for research opportunities 🙏
 - ENTP
 
+## 🌐 社交媒体 | Social Media
+
+- 📱 WeChat：Liiiiyuxuan
+- 🐦 Discord：Liiiiyuxuan
+- 📫 Email：eason.li@uwaterloo.ca
+
 ### 🤖 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -36,12 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liiiiyuxuan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liiiiyuxuan&layout=compact&langs_count=8&theme=radical"/>
 </div>
-
-## 🌐 社交媒体 | Social Media
-
-- 📱 WeChat：Liiiiyuxuan
-- 🐦 Discord：Liiiiyuxuan
-- 📫 Email：eason.li@uwaterloo.ca
 
 ## 📈 贡献时间线 | Contribution Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Liiiiyuxuan&theme=dracula)
