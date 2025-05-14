@@ -32,6 +32,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-49C3C3?style=for-the-badge&logo=matlab&logoColor=white)
 
 ### 🎨 
 ![Latex](https://img.shields.io/badge/Latex-20232A?style=for-the-badge&logo=tex&logoColor=green)
